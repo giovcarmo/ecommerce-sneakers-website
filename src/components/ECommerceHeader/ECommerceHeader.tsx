@@ -22,11 +22,11 @@ export const ECommerceHeader = () => {
     const [showCart, setShowCart] = useState(false);
 
     const navLinks = [
-        { label: "Collections", path: "/" },
-        { label: "Men", path: "/men" },
-        { label: "Women", path: "/women" },
-        { label: "About", path: "/about" },
-        { label: "Contact", path: "/contact" }
+        { label: "Collections", path: "/ecomerce-website-sneakers/" },
+        { label: "Men", path: "/ecomerce-website-sneakers/men" },
+        { label: "Women", path: "/ecomerce-website-sneakers/women" },
+        { label: "About", path: "/ecomerce-website-sneakers/about" },
+        { label: "Contact", path: "/ecomerce-website-sneakers/contact" }
     ];
     
     const popupRef = useRef<HTMLDivElement>(null);
@@ -58,7 +58,7 @@ export const ECommerceHeader = () => {
                 />
 
                 <img
-                    onClick={() => navigate("/")}
+                    onClick={() => navigate("/ecomerce-website-sneakers/")}
                     className="cursor-pointer pl-25 pr-5 max-[820px]:pl-0"
                     src={themeConfig[theme].logo}
                     alt="Logo"
