@@ -7,7 +7,7 @@ export const products: ProductProps[] = [
         gender: "women",
         total: "price - discount",
         quantity: 1,
-        image: "/images/image-product-1.jpg",
+        image: "${import.meta.env.BASE_URL}/images/image-product-1.jpg",
         price: 375,
         discount: 250,
         discpercent: 50,
