@@ -72,7 +72,7 @@ export function CartPopup({ newItem, removeItem }: CartPopupProps) {
                                 </div>
 
                                 <img
-                                    src="/ecomerce-website-sneakers/images/icon-delete.svg"
+                                    src="/images/icon-delete.svg"
                                     alt="Delete item"
                                     className="cursor-pointer"
                                     onClick={() => removeItem(item.id)}

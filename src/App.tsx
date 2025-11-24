@@ -15,16 +15,16 @@ function App() {
   return (
     <CartProvider>
       <ThemeProvider>
-        <BrowserRouter basename="/ecomerce-website-sneakers">
+        <BrowserRouter>
           <ECommerceHeader />
           <Routes>
-            <Route path="/ecomerce-website-sneakers/men" element={<MenProductsPage />} />
-            <Route path="/ecomerce-website-sneakers/women" element={<WomenProductsPage />} />
-            <Route path="/ecomerce-website-sneakers/" element={<ProductsPage />} />
-            <Route path="/ecomerce-website-sneakers/about" element={<About />} />
-            <Route path="/ecomerce-website-sneakers/contact" element={<Contact />} />
-            <Route path="/ecomerce-website-sneakers/checkout" element={<Checkout />} />
-            <Route path="/ecomerce-website-sneakers/delivery" element={<Delivery />} />
+            <Route path="/men" element={<MenProductsPage />} />
+            <Route path="/women" element={<WomenProductsPage />} />
+            <Route path="/" element={<ProductsPage />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/checkout" element={<Checkout />} />
+            <Route path="/delivery" element={<Delivery />} />
             <Route
               path="/product/:id"
               element={

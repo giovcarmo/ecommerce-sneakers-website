@@ -24,14 +24,14 @@ export function ProductLightbox({
       <div className="relative">
 
         <button className="cursor-pointer absolute -top-10 right-0 text-3xl" onClick={onClose}>
-          <img src="/ecomerce-website-sneakers/images/icon-close.svg" alt="icon close" />
+          <img src="/images/icon-close.svg" alt="icon close" />
         </button>
 
         <div className="relative flex items-center">
           <button
             onClick={onPrev}
             className="absolute -left-10 bg-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer">
-            <img src="/ecomerce-website-sneakers/images/icon-previous.svg" alt="Previous" />
+            <img src="/images/icon-previous.svg" alt="Previous" />
           </button>
 
           <img className="w-[450px] rounded-lg" src={images[index].main} />
@@ -39,7 +39,7 @@ export function ProductLightbox({
           <button
             onClick={onNext}
             className="absolute -right-10 bg-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer">
-            <img src="/ecomerce-website-sneakers/images/icon-next.svg" alt="Next" />
+            <img src="/images/icon-next.svg" alt="Next" />
           </button>
         </div>
 

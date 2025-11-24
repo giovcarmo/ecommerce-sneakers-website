@@ -7,7 +7,7 @@ export const products: ProductProps[] = [
         gender: "women",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 375,
         discount: 250,
         discpercent: 50,
@@ -16,23 +16,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product-1-thumbnail.jpg"
+                main: "/images/image-product-1.jpg",
+                thumb: "/images/image-product-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product-2-thumbnail.jpg"
+                main: "/images/image-product-2.jpg",
+                thumb: "/images/image-product-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product-3-thumbnail.jpg"
+                main: "/images/image-product-3.jpg",
+                thumb: "/images/image-product-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product-4-thumbnail.jpg"
+                main: "/images/image-product-4.jpg",
+                thumb: "/images/image-product-4-thumbnail.jpg"
             }
         ],
     },
@@ -42,7 +42,7 @@ export const products: ProductProps[] = [
         gender: "men",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 450,
         discount: 158,
         discpercent: 35,
@@ -51,23 +51,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product2-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product2-1-thumbnail.jpg"
+                main: "/images/image-product2-1.jpg",
+                thumb: "/images/image-product2-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product2-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product2-2-thumbnail.jpg"
+                main: "/images/image-product2-2.jpg",
+                thumb: "/images/image-product2-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product2-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product2-3-thumbnail.jpg"
+                main: "/images/image-product2-3.jpg",
+                thumb: "/images/image-product2-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product2-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product2-4-thumbnail.jpg"
+                main: "/images/image-product2-4.jpg",
+                thumb: "/images/image-product2-4-thumbnail.jpg"
             }
         ],
     },
@@ -77,7 +77,7 @@ export const products: ProductProps[] = [
         gender: "women",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 120,
         discount: 36,
         discpercent: 30,
@@ -86,23 +86,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product3-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product3-1-thumbnail.jpg"
+                main: "/images/image-product3-1.jpg",
+                thumb: "/images/image-product3-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product3-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product3-2-thumbnail.jpg"
+                main: "/images/image-product3-2.jpg",
+                thumb: "/images/image-product3-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product3-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product3-3-thumbnail.jpg"
+                main: "/images/image-product3-3.jpg",
+                thumb: "/images/image-product3-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product3-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product3-4-thumbnail.jpg"
+                main: "/images/image-product3-4.jpg",
+                thumb: "/images/image-product3-4-thumbnail.jpg"
             }
         ],
     },
@@ -112,7 +112,7 @@ export const products: ProductProps[] = [
         gender: "women",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 90,
         discount: 9,
         discpercent: 10,
@@ -121,23 +121,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product4-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product4-1-thumbnail.jpg"
+                main: "/images/image-product4-1.jpg",
+                thumb: "/images/image-product4-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product4-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product4-2-thumbnail.jpg"
+                main: "/images/image-product4-2.jpg",
+                thumb: "/images/image-product4-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product4-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product4-3-thumbnail.jpg"
+                main: "/images/image-product4-3.jpg",
+                thumb: "/images/image-product4-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product4-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product4-4-thumbnail.jpg"
+                main: "/images/image-product4-4.jpg",
+                thumb: "/images/image-product4-4-thumbnail.jpg"
             }
         ],
     },
@@ -147,7 +147,7 @@ export const products: ProductProps[] = [
         gender: "women",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 70,
         discount: 10.50,
         discpercent: 15,
@@ -156,23 +156,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product5-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product5-1-thumbnail.jpg"
+                main: "/images/image-product5-1.jpg",
+                thumb: "/images/image-product5-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product5-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product5-2-thumbnail.jpg"
+                main: "/images/image-product5-2.jpg",
+                thumb: "/images/image-product5-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product5-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product5-3-thumbnail.jpg"
+                main: "/images/image-product5-3.jpg",
+                thumb: "/images/image-product5-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product5-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product5-4-thumbnail.jpg"
+                main: "/images/image-product5-4.jpg",
+                thumb: "/images/image-product5-4-thumbnail.jpg"
             }
         ],
     },
@@ -182,7 +182,7 @@ export const products: ProductProps[] = [
         gender: "men",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 260,
         discount: 52,
         discpercent: 20,
@@ -191,23 +191,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product6-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product6-1-thumbnail.jpg"
+                main: "/images/image-product6-1.jpg",
+                thumb: "/images/image-product6-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product6-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product6-2-thumbnail.jpg"
+                main: "/images/image-product6-2.jpg",
+                thumb: "/images/image-product6-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product6-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product6-3-thumbnail.jpg"
+                main: "/images/image-product6-3.jpg",
+                thumb: "/images/image-product6-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product6-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product6-4-thumbnail.jpg"
+                main: "/images/image-product6-4.jpg",
+                thumb: "/images/image-product6-4-thumbnail.jpg"
             }
         ],
     },
@@ -217,7 +217,7 @@ export const products: ProductProps[] = [
         gender: "men",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 300,
         discount: 75,
         discpercent: 25,
@@ -226,23 +226,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product7-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product7-1-thumbnail.jpg"
+                main: "/images/image-product7-1.jpg",
+                thumb: "/images/image-product7-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product7-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product7-2-thumbnail.jpg"
+                main: "/images/image-product7-2.jpg",
+                thumb: "/images/image-product7-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product7-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product7-3-thumbnail.jpg"
+                main: "/images/image-product7-3.jpg",
+                thumb: "/images/image-product7-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product7-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product7-4-thumbnail.jpg"
+                main: "/images/image-product7-4.jpg",
+                thumb: "/images/image-product7-4-thumbnail.jpg"
             }
         ],
     },
@@ -252,7 +252,7 @@ export const products: ProductProps[] = [
         gender: "men",
         total: "price - discount",
         quantity: 1,
-        image: "/ecomerce-website-sneakers/images/image-product-1.jpg",
+        image: "/images/image-product-1.jpg",
         price: 160,
         discount: 16,
         discpercent: 10,
@@ -261,23 +261,23 @@ export const products: ProductProps[] = [
         images: [
             {
                 id: 1,
-                main: "/ecomerce-website-sneakers/images/image-product8-1.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product8-1-thumbnail.jpg"
+                main: "/images/image-product8-1.jpg",
+                thumb: "/images/image-product8-1-thumbnail.jpg"
             },
             {
                 id: 2,
-                main: "/ecomerce-website-sneakers/images/image-product8-2.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product8-2-thumbnail.jpg"
+                main: "/images/image-product8-2.jpg",
+                thumb: "/images/image-product8-2-thumbnail.jpg"
             },
             {
                 id: 3,
-                main: "/ecomerce-website-sneakers/images/image-product8-3.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product8-3-thumbnail.jpg"
+                main: "/images/image-product8-3.jpg",
+                thumb: "/images/image-product8-3-thumbnail.jpg"
             },
             {
                 id: 4,
-                main: "/ecomerce-website-sneakers/images/image-product8-4.jpg",
-                thumb: "/ecomerce-website-sneakers/images/image-product8-4-thumbnail.jpg"
+                main: "/images/image-product8-4.jpg",
+                thumb: "/images/image-product8-4-thumbnail.jpg"
             }
         ],
     },

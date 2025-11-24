@@ -1,5 +1,5 @@
-import { useProductCount } from "../../Hooks/useProductCount";
-import { useProductLightbox } from "../../Hooks/useProductLightbox";
+import { useProductCount } from "../../hooks/useProductCount";
+import { useProductLightbox } from "../../hooks/useProductLightbox";
 import { products } from "./ECommerceItems";
 import { useParams } from "react-router-dom";
 import { useContext } from "react";
