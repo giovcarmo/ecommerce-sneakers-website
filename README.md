@@ -6,7 +6,7 @@ Neste desafio eu quis provar da experiência de ser um Dev Junior, e construir t
 
 Eu levei uma semana para finalizar esta obra, e fiquei muito feliz com o resultado, tive muitos desafios para realiza-lo, mas foi um sucesso(confesso que usei a IA várias vezes, mas isso me ensina muito, pois há vários fatores que o curso apenas não sustenta a necessidade de aprender mais), fico feliz em apresentar este projeto como parte do meu portfolio que está já está sendo construido.
 
-![Design preview for the E-Commerce Website - Sneakers](src/images/ecomerce.gif)
+![Design preview for the E-Commerce Website - Sneakers](/ecommerce-sneakers-website/images/ecomerce.gif)
 
 ## Tecnologias utilizadas
 - React
