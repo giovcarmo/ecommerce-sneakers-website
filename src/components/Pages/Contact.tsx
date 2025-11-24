@@ -28,7 +28,7 @@ export default function Contact() {
                 <Tooltip text="This is my WhatsApp, click to send me a message!">
                     <div className="cursor-pointer flex flex-col items-center gap-2">
                         <span onClick={() => window.open("https://wa.me/+5534998641993", "_blank")} className="hover:opacity-50 hover: mt-5">
-                            <img className="w-15 h-15" src="/images/whatsapp-square-brands-solid.svg" alt="Whatsapp" />
+                            <img className="w-15 h-15" src="/ecomerce-website-sneakers/images/whatsapp-square-brands-solid.svg" alt="Whatsapp" />
                         </span>
                     </div>
                 </Tooltip>
@@ -36,7 +36,7 @@ export default function Contact() {
                 <Tooltip text="Visit my profile on LinkedIn!">
                     <div className="cursor-pointer flex flex-col items-center gap-2">
                         <span onClick={() => window.open("https://linkedin.com/in/giovcarmo", "_blank")} className="hover:opacity-50 hover: mt-5">
-                            <img className="w-15 h-15" src="/images/linkedin-brands-solid.svg" alt="Linkedin" />
+                            <img className="w-15 h-15" src="/ecomerce-website-sneakers/images/linkedin-brands-solid.svg" alt="Linkedin" />
                         </span>
                     </div>
                 </Tooltip>
@@ -44,7 +44,7 @@ export default function Contact() {
                 <Tooltip text="Check out my projects on Github!">
                     <div className="cursor-pointer flex flex-col items-center gap-2">
                         <span onClick={() => window.open("https://github.com/giovcarmo", "_blank")} className="hover:opacity-50 hover: mt-5">
-                            <img className="w-15 h-15" src="/images/github-brands-solid.svg" alt="Github" />
+                            <img className="w-15 h-15" src="/ecomerce-website-sneakers/images/github-brands-solid.svg" alt="Github" />
                         </span>
                     </div>
                 </Tooltip>
@@ -55,7 +55,7 @@ export default function Contact() {
                             href="mailto:gvittorazze@icloud.com"
                             className="cursor-pointer flex flex-col items-center gap-2 hover:opacity-50 mt-5"
                         >
-                            <img className="w-15 h-15" src="/images/cloud-solid.svg" alt="Github" />
+                            <img className="w-15 h-15" src="/ecomerce-website-sneakers/images/cloud-solid.svg" alt="Github" />
                         </a>
                     </div>
                 </Tooltip>

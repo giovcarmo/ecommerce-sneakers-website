@@ -52,7 +52,7 @@ export const ECommerceHeader = () => {
             <div className="flex items-center">
                 <img
                     className="cursor-pointer pl-25 max-[376px]:pl-7 max-[820px]:block hidden pr-5"
-                    src="/images/icon-menu.svg"
+                    src="/ecomerce-website-sneakers/images/icon-menu.svg"
                     alt="menu"
                     onClick={toggleMenu}
                 />
@@ -83,7 +83,7 @@ export const ECommerceHeader = () => {
                     <img
                         onClick={() => setShowCart((prev) => !prev)}
                         className="cursor-pointer"
-                        src="/images/icon-cart.svg"
+                        src="/ecomerce-website-sneakers/images/icon-cart.svg"
                         alt="Icon Cart"
                     />
 
@@ -102,7 +102,7 @@ export const ECommerceHeader = () => {
 
                 <img
                     className="cursor-pointer border-3 rounded-full border-orange w-12 h-12 max-[677px]:w-8 max-[677px]:h-8"
-                    src="/images/image-avatar.png"
+                    src="/ecomerce-website-sneakers/images/image-avatar.png"
                     alt="Avatar"
                 />
             </div>
@@ -117,7 +117,7 @@ export const ECommerceHeader = () => {
 
                     <div className="fixed top-0 left-0 w-[250px] h-full bg-white p-6 z-50 shadow-lg animate-slide-in">
                         <img
-                            src="/images/icon-close.svg"
+                            src="/ecomerce-website-sneakers/images/icon-close.svg"
                             alt="close"
                             className="cursor-pointer mb-10"
                             onClick={toggleMenu}

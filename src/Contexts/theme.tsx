@@ -1,12 +1,12 @@
-import SunIcon from "/images/icon-sun.svg"
-import MoonIcon from "/images/icon-moon.svg"
-import Logo from "/images/logo.svg"
-import LogoDark from "/images/logo-dark.svg"
+import SunIcon from "/ecomerce-website-sneakers/images/icon-sun.svg"
+import MoonIcon from "/ecomerce-website-sneakers/images/icon-moon.svg"
+import Logo from "/ecomerce-website-sneakers/images/logo.svg"
+import LogoDark from "/ecomerce-website-sneakers/images/logo-dark.svg"
 
-import HomeSolid from "/images/ehome-solid.svg"
-import HomeSolidDark from "/images/ehome-solid-dark.svg"
-import BriefCaseSolid from "/images/work-solid.svg"
-import BriefCaseSolidDark from "/images/work-solid-dark.svg"
+import HomeSolid from "/ecomerce-website-sneakers/images/ehome-solid.svg"
+import HomeSolidDark from "/ecomerce-website-sneakers/images/ehome-solid-dark.svg"
+import BriefCaseSolid from "/ecomerce-website-sneakers/images/work-solid.svg"
+import BriefCaseSolidDark from "/ecomerce-website-sneakers/images/work-solid-dark.svg"
 
 export const themeConfig = {
     light: {
