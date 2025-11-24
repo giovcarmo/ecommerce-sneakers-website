@@ -6,7 +6,7 @@ Neste desafio eu quis provar da experiência de ser um Dev Junior, e construir t
 
 Eu aprendi muito nesta obra, foram vários desafios (tive a IA para me ajudar, me trazendo lições em alguns detalhes).
 
-![Design preview for the E-Commerce Website - Sneakers](/images/ecomerce.gif)
+![Design preview for the E-Commerce Website - Sneakers](/src/assets/ecomerce.gif)
 
 ## Tecnologias utilizadas
 - React
