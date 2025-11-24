@@ -15,7 +15,7 @@ function App() {
   return (
     <CartProvider>
       <ThemeProvider>
-        <BrowserRouter basename="/ecomerce-website-sneakers">
+        <BrowserRouter basename="/ecomerce-website-sneakers/">
           <ECommerceHeader />
           <Routes>
             <Route path="/men" element={<MenProductsPage />} />
