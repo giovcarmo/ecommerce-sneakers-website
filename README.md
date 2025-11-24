@@ -4,7 +4,7 @@ Neste desafio eu quis provar da experiência de ser um Dev Junior, e construir t
 
 ## Sobre
 
-Eu aprendi muito nesta obra, foram vários desafios (tive a IA para me ajudar, me trazendo lições em processos de construção elaborados).
+Eu aprendi muito nesta obra, foram vários desafios (tive a IA para me ajudar, me trazendo lições em alguns detalhes).
 
 ![Design preview for the E-Commerce Website - Sneakers](/images/ecomerce.gif)
 
