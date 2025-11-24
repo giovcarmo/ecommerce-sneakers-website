@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Kumbh Sans", sans-serif;
+  src: url(../../public/fonts/KumbhSans-VariableFont_YOPQ\,wght.ttf);
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-orange: hsl(26, 120%, 55%);
+  --color-pale-orange: hsl(25, 120%, 74%);
+
+  --color-very-dark-blue: hsl(220, 13%, 13%);
+  --color-very-dark-blue-bg: hsl(220, 13%, 20%);
+  --color-dark-grayish-blue: hsl(219, 9%, 45%);
+  --color-grayish-blue: hsl(220, 14%, 75%);
+  --color-light-grayish-blue: hsl(223, 64%, 98%);
+  --color-white: hsl(0, 0%, 120%);
+  --color-black: hsla(0, 0%, 0%, 0.25);
+
+  --font-primary: "Kumbh Sans", sans-serif;
+
+  --color-neutral-very-dark-blue: hsl(235, 21%, 11%);
+  --color-neutral-very-dark-desaturated-blue: hsl(235, 24%, 19%);
+  --color-neutral-very-dark-grayish-blue: hsl(235, 19%, 35%);
+  --color-neutral-dark-grayish-blue: hsl(236, 9%, 61%);
+  --color-neutral-very-light-grayish-blue: hsl(236, 33%, 92%);
+
+}
+
+body {
+  font-family: var(--font-primary);
+}
