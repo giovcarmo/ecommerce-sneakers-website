@@ -106,7 +106,7 @@ export const Delivery = () => {
                         </div>
                         <div className="flex flex-col w-full">
                             <label className={`px-3 ${theme === 'light' ? "text-very-dark-blue" : "text-neutral-very-light-grayish-blue"}`}>Phone number</label>
-                            <input className={`w-full border px-3 py-3 outline-none mb-5 rounded-[7px] ${theme === 'light' ? "bg-neutral-very-light-grayish-blue border-grayish-blue text-very-dark-blue" : "bg-neutral-very-dark-blue border-neutral-very-dark-grayish-blue text-neutral-very-light-grayish-blue"} ${errors.street ? "border-red-500" : "" }`} type="number"  placeholder="E.g.: +1 (xxx) xxx-xxxx" min={0} {...register('phonenumber', {
+                            <input className={`w-full border px-3 py-3 outline-none mb-5 rounded-[7px] ${theme === 'light' ? "bg-neutral-very-light-grayish-blue border-grayish-blue text-very-dark-blue" : "bg-neutral-very-dark-blue border-neutral-very-dark-grayish-blue text-neutral-very-light-grayish-blue"} ${errors.street ? "border-red-500" : "" }"`} type="number"  placeholder="E.g.: +1 (xxx) xxx-xxxx" min={0} {...register('phonenumber', {
                                     required: "Campo obrigatório",
                                 })
                                 } />
