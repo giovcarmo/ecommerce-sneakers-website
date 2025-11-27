@@ -81,7 +81,7 @@ export const Checkout = () => {
                                         </div>
 
                                         <img
-                                            src="/images/icon-delete.svg"
+                                            src={`${import.meta.env.BASE_URL}/images/icon-delete.svg`}
                                             alt="Delete item"
                                             className="cursor-pointer"
                                             onClick={() => removeItem(item.id)}
